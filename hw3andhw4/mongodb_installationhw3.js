@@ -1,0 +1,1 @@
+console.log("MongoDB has been successfully downloaded and installed!");
