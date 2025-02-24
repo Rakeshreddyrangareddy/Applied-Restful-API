@@ -1,0 +1,2 @@
+1. Start the backend server: Navigate to the backend directory, run npm install to install dependencies, and start the server with npm start (runs at http://localhost:5000).  
+2. Launch the frontend: Navigate to the frontend directory and open the desired HTML file (index.html) in your browser to use the application.
